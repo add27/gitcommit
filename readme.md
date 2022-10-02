@@ -1,1 +1,1 @@
-## this is git tutorial
+## this is git tutorial by krish naik
